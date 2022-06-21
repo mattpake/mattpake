@@ -1,6 +1,6 @@
 ### Hi I'm Matt Pake 👋
 
-- 🔭 I’m currently working on Slack Intagration.
+- 🔭 I’m currently working on Slack integration.
 - 🌱 I’m currently learning Slack Api.
 - 👯 I’m looking to collaborate on Flutter.
 - 💬 Ask me about tech realted stuff.
