@@ -1,10 +1,11 @@
-### Hi I'm Matt Pake 👋
+### Hi, I'm Matt Pake 👋
+🚀 AI Specialist & Software Developer passionate about building intelligent, automated solutions that enhance user experience and efficiency.
 
-- 🔭 I’m currently working on Slack integration.
-- 🌱 I’m currently learning Slack Api.
-- 👯 I’m looking to collaborate on Flutter.
-- 💬 Ask me about tech realted stuff.
-- 📫 How to reach me: #matt.pake
-- 😄 Pronouns: He/ His
-- ⚡ Fun fact: I'd rather be hated for who I am, than loved for who I am not.
+🔹 Currently working on AI-driven Slack integrations & automation.
+🔹 Exploring the latest in OpenAI, Azure AI, and Llama models.
+🔹 Love collaborating on AI-powered apps, machine learning projects, and automation tools.
+🔹 Ask me about AI development, NLP, automation, and backend architecture.
+🔹 Let’s connect! Open to innovative AI projects & collaborations.
+
+⚡ Fun fact: The best AI solutions feel invisible—seamlessly enhancing experiences without users even noticing.
 -->
